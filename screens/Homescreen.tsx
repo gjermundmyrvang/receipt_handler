@@ -1,6 +1,5 @@
 import * as ImagePicker from "expo-image-picker";
 import { StatusBar } from "expo-status-bar";
-import { OpenAI } from "openai";
 import { useState } from "react";
 import { Alert, Image, ScrollView, View } from "react-native";
 import {
